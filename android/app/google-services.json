@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "578393081648",
+    "firebase_url": "https://trading-plan-81ba5.firebaseio.com",
+    "project_id": "trading-plan-81ba5",
+    "storage_bucket": "trading-plan-81ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578393081648:android:f9af3ed566c68506c26af5",
+        "android_client_info": {
+          "package_name": "trading.plan.innovation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578393081648-h1bqgsajciavp9i3dr836qv1nv80lff3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKH7J1LPL0dbS6fuxuzQVp0qkFfImWwNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578393081648-h1bqgsajciavp9i3dr836qv1nv80lff3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
